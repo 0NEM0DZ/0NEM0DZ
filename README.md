@@ -36,5 +36,3 @@
 </div>
 
 ---
-
-![Snake animation](https://raw.githubusercontent.com/0NEM0DZ/0NEM0DZ/output/github-contribution-grid-snake.svg)
