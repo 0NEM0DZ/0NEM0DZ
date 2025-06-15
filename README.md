@@ -35,8 +35,6 @@
   <img align="center" alt="VS Code" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+---
+
+![Snake animation](https://raw.githubusercontent.com/0NEM0DZ/0NEM0DZ/output/github-contribution-grid-snake.svg)
