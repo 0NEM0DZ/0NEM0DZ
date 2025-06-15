@@ -1,6 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+ONE+MODZ;Desenvolvedor+Web;e+de+Softwares"
-        alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+ONE+MODZ;Desenvolvedor+Web;e+de+Softwares" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -27,11 +26,37 @@
 
 ## 🛠️ Code </>
 
-<div style="display: inline_block; margin: 20px 0;">
+<div style="display: inline_block; margin: 20px 0; text-align: center;">
   <img align="center" alt="JavaScript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="HTML5" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="VS Code" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+</div>
+
+---
+
+## 🐍 Cobrinha de Contribuição
+
+![Snake animation](https://github.com/0NEM0DZ/0NEM0DZ/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🌟 Projetos Destacados
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 30px;">
+  <a href="https://github.com/0NEM0DZ/projeto-1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0NEM0DZ&repo=projeto-1&theme=radical&border_radius=10&bg_color=30,0d0d0d,2d0a57" />
+  </a>
+  <a href="https://github.com/0NEM0DZ/projeto-2">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0NEM0DZ&repo=projeto-2&theme=radical&border_radius=10&bg_color=30,2d0a57,0d0d0d" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=0NEM0DZ&color=8A2BE2&style=flat-square" alt="Visualizações do perfil">
+  <p>✨ "Código é arte, cada linha é uma pincelada" ✨</p>
 </div>
