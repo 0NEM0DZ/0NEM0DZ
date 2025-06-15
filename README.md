@@ -35,28 +35,8 @@
   <img align="center" alt="VS Code" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 </div>
 
----
-
-## 🐍 Cobrinha de Contribuição
-
-![Snake animation](https://github.com/0NEM0DZ/0NEM0DZ/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## 🌟 Projetos Destacados
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 30px;">
-  <a href="https://github.com/0NEM0DZ/projeto-1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0NEM0DZ&repo=projeto-1&theme=radical&border_radius=10&bg_color=30,0d0d0d,2d0a57" />
-  </a>
-  <a href="https://github.com/0NEM0DZ/projeto-2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0NEM0DZ&repo=projeto-2&theme=radical&border_radius=10&bg_color=30,2d0a57,0d0d0d" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=0NEM0DZ&color=8A2BE2&style=flat-square" alt="Visualizações do perfil">
-  <p>✨ "Código é arte, cada linha é uma pincelada" ✨</p>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
